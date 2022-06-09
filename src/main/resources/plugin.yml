@@ -1,0 +1,11 @@
+name: TestPlugin
+version: '${project.version}'
+main: net.benjamin.test.Main
+api-version: 1.17
+authors: [ Tert ]
+description: Test Plugin
+commands:
+  heal:
+  test:
+  console:
+  config:
